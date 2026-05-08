@@ -7,9 +7,13 @@ This repository provides a data-driven framework to address the imbalance proble
 (ii) NECRA Metric: The Newsvendor Error Cost Relevance Area metric, which evaluates model performance across all possible thresholds of demand rareness.  
 
 **Repository Structure**: The repository is organized as follows:
+
 **R code**/: Contains core R and Python scripts for neural network model creation and the RW loss function implementation.
+
 **Real Data**/: Includes the retail demand dataset and scripts used for external validation.
+
 **Figures**/: Scripts to reproduce the performance comparisons and line plots of NECRA across varying experimental parameters.
+
 **Results in Excel**/: Detailed numerical NECRA scores and summary tables for transparency and reproducibility.
 
 
